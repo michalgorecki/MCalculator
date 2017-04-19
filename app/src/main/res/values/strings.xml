@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MCalculator</string>
+    <string name="title_activity_simple_calculator">SimpleCalculatorActivity</string>
+</resources>
