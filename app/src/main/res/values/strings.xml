@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MCalculator</string>
     <string name="title_activity_simple_calculator">SimpleCalculatorActivity</string>
+    <string name="about_message">Application developed by Michal Gorecki, 2017</string>
 </resources>
